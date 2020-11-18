@@ -1,1 +1,7 @@
-# AI_FeatureBased_Approach_on_Behavior_Analysis_Twitter_users
+# An AI Feature-Based Approach on Behavior Analysis of the users on Twitter
+
+## Speaker 
+[Niloufar Shoeibi](https://twitter.com/niloushb) is a researcher and developer in AI at [BISITE Research Group](https://bisite.usal.es/en), participating in many different AI projects. In parallel, she is in the second year of doing her Ph.D. in Intelligent Systems at the University of Salamanca, under the supervision of Prof. Juan Manuel Corchado. Her research interests focus on building tools and applications to perform social media analysis, using AI, machine learning, natural language processing, etc. From people’s behavior to make recommendations and even discovering crimes.
+
+## Abstract
+Day by day, social media and related technologies are advancing. Social networking platforms offer their users the ability to share their thoughts and feelings, as well as spread and stay updated on the latest news. It is a matter of the fact that each user can create a flow of information through the content they publish and by employing different content-sharing strategies. Analyzing this information helps us to have a better understanding of types of users, meet their needs, predict their tendencies based on their behavioral categories. In this presentation, we are going to explain the possibilities of doing this classification of users on Twitter. Furthermore, we will review a case study of Election 2020 of the United States.
